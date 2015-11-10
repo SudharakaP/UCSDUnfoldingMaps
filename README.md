@@ -18,12 +18,12 @@ associated with the MOOC.
 
 Get excited and make things!
 
-### INSTALLATION
+### Installation
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
 
-### MANUAL INSTALLATION
+### Manual Installation
 
 If the import does not work follow the steps below.
 
@@ -33,7 +33,7 @@ If the import does not work follow the steps below.
 - Set native library location for jogl.jar. Choose appropriate folder for your OS.
 - Add data/ as src
 
-### TROUBLE SHOOTING
+### Troubleshooting
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
