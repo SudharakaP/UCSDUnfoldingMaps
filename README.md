@@ -1,6 +1,6 @@
 ## Object Oriented Programming in Java - Coursera
 
-This repository contains the work I have done with regard to the Object Oriented Programming in Java course in Coursera under Java Programming: Object-Oriented Design of Data Structures Specialization.
+This repository contain the work I have done with regard to the **Object Oriented Programming in Java** course in Coursera under the specialization, **Java Programming: Object-Oriented Design of Data Structures**.
 
 
 ## Notes on Using the Code
