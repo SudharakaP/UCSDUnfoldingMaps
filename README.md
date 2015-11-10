@@ -1,3 +1,10 @@
+## Object Oriented Programming in Java - Coursera
+
+This repository contains the work I have done with regard to the Object Oriented Programming in Java course in Coursera under Java Programming: Object-Oriented Design of Data Structures Specialization.
+
+
+## Notes on Using the Code
+
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================
 
