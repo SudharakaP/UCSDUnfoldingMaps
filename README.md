@@ -5,9 +5,6 @@ This repository contains the work I have done with regard to the Object Oriented
 
 ## Notes on Using the Code
 
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
-==================================================================
-
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
 UC San Diego through Coursera.
@@ -21,14 +18,12 @@ associated with the MOOC.
 
 Get excited and make things!
 
-
-INSTALLATION
+### INSTALLATION
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
 
-
-MANUAL INSTALLATION
+### MANUAL INSTALLATION
 
 If the import does not work follow the steps below.
 
@@ -38,8 +33,7 @@ If the import does not work follow the steps below.
 - Set native library location for jogl.jar. Choose appropriate folder for your OS.
 - Add data/ as src
 
-
-TROUBLE SHOOTING
+### TROUBLE SHOOTING
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
