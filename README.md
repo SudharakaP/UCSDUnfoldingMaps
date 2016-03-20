@@ -1,6 +1,6 @@
 ## Object Oriented Programming in Java - Coursera
 
-This repository contain the work I have done with regard to the **Object Oriented Programming in Java** course in Coursera under the specialization, **Java Programming: Object-Oriented Design of Data Structures**. The end result is a map application with a Graphical User Interface. 
+This repository contain the work I have done with regard to the **Object Oriented Programming in Java** course in Coursera under the specialization, **Java Programming: Object-Oriented Design of Data Structures**. The final project for this course is a map application with a Graphical User Interface. 
 
 ## Notes on Using the Code
 
