@@ -4,10 +4,6 @@ This repository contain the work I have done with regard to the **Object Oriente
 
 ## Notes on Using the Code
 
-This is a skeleton to use Unfolding in Eclipse as well as some starter
-code for the Object Oriented Programming in Java course offered by 
-UC San Diego through Coursera.
-
 A very basic Unfolding demo you'll find in the source folder in the default package. 
 For more examples visit http://unfoldingmaps.org, or download the template with
 examples.
