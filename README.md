@@ -1,6 +1,6 @@
 ## Object Oriented Programming in Java - Coursera
 
-This repository contain the work I have done with regard to the **Object Oriented Programming in Java** course in Coursera under the specialization, **Java Programming: Object-Oriented Design of Data Structures**. The final project for this course is a map application with a Graphical User Interface. 
+This repository contain the work I have done with regard to the **Object Oriented Programming in Java** course in Coursera under the specialization, **Java Programming: Object-Oriented Design of Data Structures**. The final project for this course consist of a map application that gives a visual representation of earthquake information. The earthquake information is obtained in real time, organized according to their magnitude, and represented in a GUI. The project uses the Unfolding library (http://unfoldingmaps.org/). 
 
 ## Notes on Using the Code
 
