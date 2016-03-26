@@ -2,6 +2,10 @@ package module2;
 
 import processing.core.PApplet;
 
+/**
+ * @author Sudharaka Palamakumbura
+ *
+ */
 public class MyDisplay extends PApplet {
 	public void setup(){
 		size(400, 400);
