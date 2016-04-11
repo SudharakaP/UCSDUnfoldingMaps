@@ -76,8 +76,6 @@ public class HelloWorld extends PApplet
 		// This line makes the map interactive
 		MapUtils.createDefaultEventDispatcher(this, map1);
 		
-		// TODO: Add code here that creates map2 
-		// Then you'll modify draw() below
 		map2 = new UnfoldingMap(this, 425, 50, 350, 500, new_provider);
 		map2.zoomAndPanTo(zoomLevel, new Location(47.58f, -52.72f));
 		MapUtils.createDefaultEventDispatcher(this, map2);
@@ -86,8 +84,6 @@ public class HelloWorld extends PApplet
 
 	/** Draw the Applet window.  */
 	public void draw() {
-		// So far we only draw map1...
-		// TODO: Add code so that both maps are displayed
 		map1.draw();
 		map2.draw();
 	}

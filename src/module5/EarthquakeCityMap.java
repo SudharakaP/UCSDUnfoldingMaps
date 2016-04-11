@@ -145,7 +145,6 @@ public class EarthquakeCityMap extends PApplet {
 	// 
 	private void selectMarkerIfHover(List<Marker> markers)
 	{
-		// TODO: Implement this method
 		for (Marker marker: markers){
 			if (marker.isInside(map, mouseX, mouseY) && lastSelected == null){
 				lastSelected = (CommonMarker) marker;
@@ -162,9 +161,6 @@ public class EarthquakeCityMap extends PApplet {
 	@Override
 	public void mouseClicked()
 	{
-		// TODO: Implement this method
-		// Hint: You probably want a helper method or two to keep this code
-		// from getting too long/disorganized
 		if (lastClicked != null){
 			unhideMarkers();
 			lastClicked = null;

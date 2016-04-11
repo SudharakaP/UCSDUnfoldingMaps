@@ -139,8 +139,6 @@ public class EarthquakeCityMap extends PApplet {
 		addKey();		
 	}
 	
-	
-	// TODO: Add the method:
 	private void sortAndPrint(int numToPrint){
 		Object newArray[] = quakeMarkers.toArray();
 		Arrays.sort(newArray);	

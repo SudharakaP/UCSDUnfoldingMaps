@@ -130,7 +130,7 @@ public class EarthquakeCityMap extends PApplet {
 	}
 	
 	// helper method to draw key in GUI
-	// TODO: Update this method as appropriate
+
 	private void addKey() {	
 		// Remember you can use Processing's graphics methods here
 		fill(255, 250, 240);
@@ -173,9 +173,6 @@ public class EarthquakeCityMap extends PApplet {
 	// set this "country" property already.  Otherwise it returns false.
 	private boolean isLand(PointFeature earthquake) {
 		
-		// IMPLEMENT THIS: loop over all countries to check if location is in any of them
-		
-		// TODO: Implement this method using the helper method isInCountry
 		for (Marker country: countryMarkers){
 			if (isInCountry(earthquake, country)){
 				return true;
@@ -193,7 +190,6 @@ public class EarthquakeCityMap extends PApplet {
 	// And LandQuakeMarkers have a "country" property set.
 	private void printQuakes() 
 	{
-		// TODO: Implement this method
 		int earth_in_ocean = 0;
 		
 		for (Marker country: countryMarkers){
